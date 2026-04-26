@@ -1,22 +1,22 @@
-# Available .VANA One-Word Domains (9,943)
+# Available .VANA One-Word Domains (12,527)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C943%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C943%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C527%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .vana one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .vana one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,527 domains** on the canonical page below.
 
-**Public extract:** 9,943 rows · **Live catalog:** 9,943 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,527 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/vana`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .VANA one-word domain 
 
 ### Files
 
-- `vana.csv` — public CSV extract (9,943 rows)
-- `vana.json` — public JSON extract (9,943 rows)
+- `vana.csv` — public CSV extract (1,000 rows)
+- `vana.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| converse.vana   | available | $2,498    | —             | 64             | 73     | 8      | namecheap |
-| key.vana        | premium   | —         | —             | 80             | 100    | 3      | —         |
-| easy.vana       | available | $2,498    | —             | 128            | 68     | 4      | namecheap |
-| bad.vana        | premium   | —         | —             | 142            | 99     | 3      | —         |
-| nationwide.vana | available | $2,498    | —             | 76             | 66     | 10     | namecheap |
-| support.vana    | premium   | —         | —             | 112            | 99     | 7      | —         |
-| power.vana      | available | $2,498    | —             | 98             | 62     | 5      | namecheap |
-| audio.vana      | premium   | —         | —             | 90             | 99     | 5      | —         |
-| seventeen.vana  | available | $2,498    | —             | 84             | 62     | 9      | namecheap |
-| bob.vana        | premium   | —         | —             | 88             | 99     | 3      | —         |
-| ace.vana        | available | $2,498    | —             | 88             | 57     | 3      | namecheap |
-| heart.vana      | premium   | —         | —             | 84             | 99     | 5      | —         |
-| live.vana       | available | $2,498    | —             | 108            | 56     | 4      | namecheap |
-| space.vana      | premium   | —         | —             | 80             | 99     | 5      | —         |
-| good.vana       | available | $2,498    | —             | 82             | 55     | 4      | namecheap |
-| gas.vana        | premium   | —         | —             | 72             | 99     | 3      | —         |
-| business.vana   | available | $2,498    | —             | 100            | 53     | 8      | namecheap |
-| gold.vana       | premium   | —         | —             | 72             | 99     | 4      | —         |
-| art.vana        | available | $2,498    | —             | 90             | 52     | 3      | namecheap |
-| edge.vana       | premium   | —         | —             | 72             | 99     | 4      | —         |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| hotels.vana      | available | $2,498    | —             | 64             | 82     | 6      | namecheap |
+| winners.vana     | available | $2,498    | —             | 60             | 81     | 7      | namecheap |
+| Chanel.vana      | available | $2,498    | —             | 80             | 77     | 6      | namecheap |
+| regions.vana     | available | $2,498    | —             | 64             | 59     | 7      | namecheap |
+| Ryan.vana        | available | $2,498    | —             | 60             | 44     | 4      | namecheap |
+| jobs.vana        | available | $2,498    | —             | 79             | 42     | 4      | namecheap |
+| justin.vana      | available | $2,498    | —             | 58             | 38     | 7      | namecheap |
+| events.vana      | available | $2,498    | —             | 68             | 37     | 6      | namecheap |
+| stories.vana     | available | $2,498    | —             | 58             | 36     | 7      | namecheap |
+| tokens.vana      | available | $2,498    | —             | 51             | 36     | 6      | namecheap |
+| spectra.vana     | available | $2,498    | —             | 62             | 34     | 7      | namecheap |
+| Cats.vana        | available | $2,498    | —             | 59             | 33     | 4      | namecheap |
+| partners.vana    | available | $2,498    | —             | 61             | 32     | 8      | namecheap |
+| William.vana     | available | $2,498    | —             | 74             | 31     | 7      | namecheap |
+| solutions.vana   | available | $2,498    | —             | 56             | 31     | 9      | namecheap |
+| inspiration.vana | available | $2,498    | —             | 88             | 30     | 11     | namecheap |
+| spaces.vana      | available | $2,498    | —             | 54             | 30     | 6      | namecheap |
+| videos.vana      | available | $2,498    | —             | 52             | 30     | 6      | namecheap |
+| heroes.vana      | available | $2,498    | —             | 68             | 29     | 6      | namecheap |
+| quotes.vana      | available | $2,498    | —             | 58             | 29     | 6      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,943-row public sample | 9,943 live domains                               |
+| 1,000-row public sample | 12,527 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VANA One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VANA One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
