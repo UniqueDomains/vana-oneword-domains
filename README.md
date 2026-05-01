@@ -1,10 +1,10 @@
-# Available .VANA One-Word Domains (12,527)
+# Available .VANA One-Word Domains (12,925)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C527%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C925%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .vana one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,527 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,925 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,527 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,925 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/vana`  
 **Best for:** founders, investors, studios
 
@@ -66,8 +66,6 @@ print(df.head())
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | hotels.vana      | available | $2,498    | —             | 64             | 82     | 6      | namecheap |
 | winners.vana     | available | $2,498    | —             | 60             | 81     | 7      | namecheap |
-| Chanel.vana      | available | $2,498    | —             | 80             | 77     | 6      | namecheap |
-| regions.vana     | available | $2,498    | —             | 64             | 59     | 7      | namecheap |
 | Ryan.vana        | available | $2,498    | —             | 60             | 44     | 4      | namecheap |
 | jobs.vana        | available | $2,498    | —             | 79             | 42     | 4      | namecheap |
 | justin.vana      | available | $2,498    | —             | 58             | 38     | 7      | namecheap |
@@ -76,14 +74,16 @@ print(df.head())
 | tokens.vana      | available | $2,498    | —             | 51             | 36     | 6      | namecheap |
 | spectra.vana     | available | $2,498    | —             | 62             | 34     | 7      | namecheap |
 | Cats.vana        | available | $2,498    | —             | 59             | 33     | 4      | namecheap |
-| partners.vana    | available | $2,498    | —             | 61             | 32     | 8      | namecheap |
 | William.vana     | available | $2,498    | —             | 74             | 31     | 7      | namecheap |
 | solutions.vana   | available | $2,498    | —             | 56             | 31     | 9      | namecheap |
 | inspiration.vana | available | $2,498    | —             | 88             | 30     | 11     | namecheap |
-| spaces.vana      | available | $2,498    | —             | 54             | 30     | 6      | namecheap |
 | videos.vana      | available | $2,498    | —             | 52             | 30     | 6      | namecheap |
 | heroes.vana      | available | $2,498    | —             | 68             | 29     | 6      | namecheap |
 | quotes.vana      | available | $2,498    | —             | 58             | 29     | 6      | namecheap |
+| gems.vana        | available | $2,498    | —             | 70             | 28     | 4      | namecheap |
+| brands.vana      | available | $2,498    | —             | 62             | 28     | 6      | namecheap |
+| pages.vana       | available | $2,498    | —             | 52             | 28     | 5      | namecheap |
+| trades.vana      | available | $2,498    | —             | 71             | 26     | 6      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,527 live domains                              |
+| 1,000-row public sample | 12,925 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VANA One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VANA One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
