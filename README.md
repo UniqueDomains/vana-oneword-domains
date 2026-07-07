@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .vana one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,925 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,925 domains · **Median ask:** $2,498.89 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,925 domains · **Median ask:** $2,496.64 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/vana`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/vana`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .VANA one-word domain 
 
 ### Files
 
-- `vana.csv` — public CSV extract (1,000 rows)
-- `vana.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `vana.csv`, public CSV extract (1,000 rows)
+- `vana.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| hotels.vana      | available | $2,498    | —             | 64             | 82     | 6      | namecheap |
-| winners.vana     | available | $2,498    | —             | 60             | 81     | 7      | namecheap |
-| Ryan.vana        | available | $2,498    | —             | 60             | 44     | 4      | namecheap |
-| jobs.vana        | available | $2,498    | —             | 79             | 42     | 4      | namecheap |
-| justin.vana      | available | $2,498    | —             | 58             | 38     | 7      | namecheap |
-| events.vana      | available | $2,498    | —             | 68             | 37     | 6      | namecheap |
-| stories.vana     | available | $2,498    | —             | 58             | 36     | 7      | namecheap |
-| tokens.vana      | available | $2,498    | —             | 51             | 36     | 6      | namecheap |
-| spectra.vana     | available | $2,498    | —             | 62             | 34     | 7      | namecheap |
-| Cats.vana        | available | $2,498    | —             | 59             | 33     | 4      | namecheap |
-| William.vana     | available | $2,498    | —             | 74             | 31     | 7      | namecheap |
-| solutions.vana   | available | $2,498    | —             | 56             | 31     | 9      | namecheap |
-| inspiration.vana | available | $2,498    | —             | 88             | 30     | 11     | namecheap |
-| videos.vana      | available | $2,498    | —             | 52             | 30     | 6      | namecheap |
-| heroes.vana      | available | $2,498    | —             | 68             | 29     | 6      | namecheap |
-| quotes.vana      | available | $2,498    | —             | 58             | 29     | 6      | namecheap |
-| gems.vana        | available | $2,498    | —             | 70             | 28     | 4      | namecheap |
-| brands.vana      | available | $2,498    | —             | 62             | 28     | 6      | namecheap |
-| pages.vana       | available | $2,498    | —             | 52             | 28     | 5      | namecheap |
-| trades.vana      | available | $2,498    | —             | 71             | 26     | 6      | namecheap |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| here.vana | available | $2,498    | —             | high           | medium | 4      | namecheap |
+| bed.vana  | available | $2,498    | —             | high           | low    | 3      | namecheap |
+| did.vana  | available | $2,498    | —             | high           | low    | 3      | namecheap |
+| end.vana  | available | $2,498    | —             | high           | low    | 3      | namecheap |
+| few.vana  | available | $2,498    | —             | high           | low    | 3      | namecheap |
+| gay.vana  | available | $2,498    | —             | high           | medium | 3      | namecheap |
+| HBO.vana  | available | $2,498    | —             | high           | medium | 3      | namecheap |
+| led.vana  | available | $2,498    | —             | high           | low    | 3      | namecheap |
+| les.vana  | available | $2,498    | —             | medium         | low    | 3      | namecheap |
+| let.vana  | available | $2,498    | —             | high           | low    | 3      | namecheap |
+| nan.vana  | available | $2,498    | —             | high           | low    | 3      | namecheap |
+| old.vana  | available | $2,498    | —             | high           | low    | 3      | namecheap |
+| pop.vana  | available | $2,498    | —             | high           | medium | 3      | namecheap |
+| rag.vana  | available | $2,498    | —             | medium         | low    | 3      | namecheap |
+| RGB.vana  | available | $2,498    | —             | medium         | low    | 3      | namecheap |
+| sub.vana  | available | $2,498    | —             | high           | low    | 3      | namecheap |
+| sue.vana  | available | $2,498    | —             | high           | low    | 3      | namecheap |
+| tub.vana  | available | $2,498    | —             | high           | low    | 3      | namecheap |
+| xvi.vana  | available | $2,498    | —             | medium         | low    | 3      | namecheap |
+| baby.vana | available | $2,498    | —             | high           | low    | 4      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely focused on .vana domains. The names shown range from short dictionary words like harm.vana and pack.vana to longer, more specific terms like blooddonation.vana and anxiolytic.vana. That mix matters. Short, clean words are usually easier to remember and compare, while longer or highly specific terms need a clearer use case to justify the ask. The median ask across this selection is 2,499, so price discipline matters most when a word is narrow, legally sensitive, or less versatile. When comparing these domains, favor simple spelling, broad commercial use, and lower trademark friction over novelty alone.
+This is a curated list of one-word .vana domain names — short, everyday words like half, feel, sorry, and great, each paired with the .vana extension. With 12,925 domains in this set and a median ask near $2,497, the selection spans common vocabulary suited for brandable, memorable naming. Compare word length, everyday recognition, and asking price to identify domains that fit either a straightforward acquisition or a founder's brand shortlist.
 
-- Short dictionary words tend to be easier to assess
-- Median ask is 2,499 across this .vana selection
-- Longer niche terms need clearer commercial fit
-- Watch trademark risk in names like Uber.vana
+- 12,925 one-word .vana domain names in this selection
+- Median ask around $2,497 per domain
+- Everyday words like half, feel, sorry, and great
+- Short, brandable names across common vocabulary
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VANA One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VANA One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
