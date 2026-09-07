@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .vana one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 21,082 domains · **Median ask:** $2,413.43 · **High-demand under $2,500:** 77
 
-**Last updated:** 2026-09-06
+**Last updated:** 2026-09-07
 **Canonical page:** `https://unique.domains/domains/tld/vana`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| here.vana | available | $2,498    | —             | high           | medium | 4      | namecheap |
 | bed.vana  | available | $2,498    | —             | high           | low    | 3      | namecheap |
 | did.vana  | available | $2,498    | —             | high           | low    | 3      | namecheap |
 | end.vana  | available | $2,298    | $2,498        | medium         | low    | 3      | namecheap |
@@ -83,7 +84,6 @@ print(df.head())
 | sue.vana  | available | $2,498    | —             | high           | low    | 3      | namecheap |
 | tub.vana  | available | $2,498    | —             | high           | low    | 3      | namecheap |
 | xvi.vana  | available | $2,498    | —             | medium         | low    | 3      | namecheap |
-| baby.vana | available | $2,498    | —             | high           | low    | 4      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VANA One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VANA One-Word Domains*. Version 2026-09-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
@@ -157,4 +157,4 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 ## 📬 Contact
 
-Questions, corrections, or partnership requests: `gaetan@unique.domains`
+Questions, corrections, or partnership requests: `kai@unique.domains`
