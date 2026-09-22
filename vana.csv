@@ -7,7 +7,7 @@ db4c4d42-e24d-46ad-96be-29d58d666dcf,unitedstates.vana,available,,,low,low,13,,,
 64834485-63b1-481a-b7ba-608557c55169,timeworn.vana,available,2298,2498,low,low,8,namecheap,,,08/08/2026 11:14
 f3f322ef-7fba-4637-8705-f85c3925a96a,aneurysmal.vana,available,2298,2498,low,low,10,namecheap,,,
 95ae5893-b604-49b9-a2a6-a599f02796a7,pressrelease.vana,available,2498,,medium,low,13,namecheap,,,
-81088063-c55a-4a66-b3fc-9e30e0062929,trinity.vana,available,2498,,high,low,7,namecheap,,,
+81088063-c55a-4a66-b3fc-9e30e0062929,trinity.vana,available,2298,2498,low,low,7,namecheap,,,21/09/2026 13:07
 7c502b0f-078e-4fa8-b941-d877c323253e,cherryblossom.vana,available,2498,,high,low,14,namecheap,,,
 4c2c24cd-c7d9-44e7-81eb-6631bef1626f,speaker.vana,available,2498,,high,low,7,namecheap,,,
 03e37a5f-1863-4a7a-b144-c87f87b7e5ff,realized.vana,available,2498,,high,low,8,namecheap,,,
@@ -36,7 +36,7 @@ bb47a6d4-93e8-443b-855f-635528b2af18,resolved.vana,available,2498,,high,low,8,na
 51d0c42e-7d65-4b4d-897e-a77862da1f0d,unquestionably.vana,available,2498,,medium,low,14,namecheap,,,
 3b93d996-92f8-4296-b372-215b9960a2ba,tested.vana,available,2498,,high,low,6,namecheap,,,
 4d69c60c-4db8-4e11-8157-a6a5fc2f6ddc,extension.vana,available,2498,,high,low,9,namecheap,,,
-51d9a3a4-7801-4aaf-a46f-a36be944d6df,accountstatement.vana,available,2498,,medium,low,17,namecheap,,,
+51d9a3a4-7801-4aaf-a46f-a36be944d6df,accountstatement.vana,available,2498,,low,low,17,namecheap,,,
 22fc5e24-6fb4-4eac-ad1c-359a64a313d6,francesca.vana,available,2498,,high,low,9,namecheap,,,
 54200e91-88db-4a43-bd92-5cab63a39703,coefficient.vana,available,2498,,high,low,11,namecheap,,,
 bbd48821-b68e-4807-87a1-4c05e1c0c10f,streetlight.vana,available,2498,,low,low,12,namecheap,,,
@@ -92,7 +92,7 @@ ce1844e7-bfa9-4667-bf45-56ed312da513,baked.vana,available,2298,2498,low,low,5,na
 f41484f7-179c-4072-ada1-85474a2ec735,ascetical.vana,available,2298,2498,low,low,9,namecheap,,,07/08/2026 01:01
 60ba9f79-6458-40d6-9b6a-aef9c9d3adfe,operose.vana,available,2298,2498,low,low,7,namecheap,,,06/08/2026 17:05
 6a011657-7979-4a75-9764-587847690a87,agrologic.vana,available,2298,2498,low,low,9,namecheap,,,
-1bdc843c-317a-4b37-bd1e-5ca133d1bde5,xvi.vana,available,2498,,medium,low,3,namecheap,,,
+1bdc843c-317a-4b37-bd1e-5ca133d1bde5,xvi.vana,available,2298,2498,low,low,3,namecheap,,,21/09/2026 11:49
 9bee3861-dd12-4776-a9de-fa9183be28d4,fran.vana,available,2498,,medium,low,4,namecheap,,,
 e4b3d78d-a0a9-464e-98dd-5f03021c7d1a,undynamic.vana,available,2298,2498,low,low,9,namecheap,,,
 45254f46-62d2-423c-abd2-b6d4f0e45c28,thursday.vana,available,2498,,high,low,8,namecheap,,,
@@ -143,7 +143,7 @@ df1c1413-42fb-4daf-94eb-73e69a91bee5,wealth.vana,available,2498,,high,low,6,name
 560450cf-8a50-4daa-8c88-c0b3eb7f91cd,surprised.vana,available,2498,,high,low,9,namecheap,,,
 61389548-4343-4f15-b7e1-f940bfa68f78,acrogenous.vana,available,2298,2498,low,low,10,namecheap,,,
 ba940d8c-b7b4-4d92-bd8f-290bec353d78,care.vana,available,2498,,high,low,4,namecheap,,,
-eb94f208-c4b7-46bc-b615-3688d825e498,abhorrent.vana,available,2498,,medium,low,9,namecheap,,,
+eb94f208-c4b7-46bc-b615-3688d825e498,abhorrent.vana,available,2298,2498,low,low,9,namecheap,,,21/09/2026 13:49
 9046ed6d-7dd6-44b7-a986-8efd8bf3577e,brand.vana,available,2298,2498,medium,low,5,namecheap,,,20/09/2026 03:17
 451e80aa-133b-4cbd-a18e-1d15fc01050a,calendarclock.vana,available,2498,,high,low,14,namecheap,,,
 560cad80-7046-4ca3-83c8-f60be15484bf,inthewakeof.vana,available,2498,,medium,low,14,namecheap,,,
@@ -157,7 +157,7 @@ f563ba63-8571-46e9-918c-3bff1a3963be,seized.vana,available,2498,,medium,low,6,na
 dd506878-3296-4ed6-9f54-d5bca48ccd0c,antiseptic.vana,available,2498,,high,low,10,namecheap,,,
 3a12879e-b008-4f9b-8447-d6421a9e573c,muhfucker.vana,available,2498,,medium,low,9,namecheap,,,
 aee2da21-afea-47c6-8d50-8d224423b9f6,citylights.vana,available,2498,,medium,low,11,namecheap,,,
-953ccdcf-83f3-458d-90e7-0b5435a05c1d,manageable.vana,available,2498,,high,low,10,namecheap,,,
+953ccdcf-83f3-458d-90e7-0b5435a05c1d,manageable.vana,available,2298,2498,medium,low,10,namecheap,,,21/09/2026 15:48
 831df2e4-92e5-449e-81d0-fe77efd45f14,alleviated.vana,available,2298,2498,low,low,10,namecheap,,,
 8cc26a51-d9d0-4f16-a9fa-1c8816a162a7,investor.vana,available,2498,,high,medium,8,namecheap,,,
 3d413990-0738-4dbe-8bcc-781cd0994894,few.vana,available,2498,,high,low,3,namecheap,,,
@@ -195,7 +195,7 @@ c8805551-5704-4115-90e8-586166b4f9b7,belarusian.vana,available,2298,2498,low,low
 356168de-fc78-4638-a3cf-30719901db38,reddish.vana,available,2298,2498,low,low,7,namecheap,,,19/09/2026 03:49
 e1c52463-4dc6-43f5-97e5-94d0f44483fa,curiously.vana,available,2498,,medium,low,9,namecheap,,,
 e830d649-5605-4fa1-925f-78a67077b0ec,toilsome.vana,available,2298,2498,low,low,8,namecheap,,,06/08/2026 17:16
-25fc90f0-e796-4fac-aecd-815afe520bbc,lord.vana,available,2498,,high,low,4,namecheap,,,
+25fc90f0-e796-4fac-aecd-815afe520bbc,lord.vana,available,2298,2498,medium,low,4,namecheap,,,22/09/2026 01:47
 70984182-a47f-4540-aa1d-4dfa13ee4ef3,bed.vana,available,2498,,high,low,3,namecheap,,,
 100c431e-a14a-40ca-bf2c-33227e724f68,apologize.vana,available,2498,,high,low,9,namecheap,,,
 41eb0070-412b-4d26-9130-8594c046b77b,antiguan.vana,available,2298,2498,low,low,8,namecheap,,,
@@ -240,7 +240,6 @@ c1b50054-b3bf-4aac-a087-b6cb1577e846,avoidable.vana,available,2298,2498,low,low,
 efd8485b-ccec-4c1b-8d21-a010f7850ab2,diplomatic.vana,available,2498,,high,low,10,namecheap,,,
 98687d41-80b5-42a0-917b-8a0c6b825706,coffeetalk.vana,available,2498,,high,low,11,namecheap,,,
 c73d0b8c-900f-4ec8-94f9-6dde8ea231d7,newdelhi.vana,available,2498,,medium,low,9,namecheap,,,
-2147bdac-b6ae-4fab-9ec4-7530fa39d15a,six.vana,available,,,medium,low,3,,,,
 36042fa2-0e51-4c54-a3ad-bb47422ed840,bore.vana,available,2498,,high,low,4,namecheap,,,
 9da22f75-b2ef-40fd-a6a5-ba66c5c754c2,lousy.vana,available,2498,,medium,low,5,namecheap,,,
 d75eaaba-7002-402e-bd65-a4f5df103a79,nan.vana,available,2498,,high,low,3,namecheap,,,
@@ -248,8 +247,8 @@ fb0d4060-3107-4608-bde6-eab38525836a,kind.vana,available,2498,,high,low,4,namech
 286745eb-6f19-42a0-83fe-fddd4f3af1e4,acephalous.vana,available,2298,2498,low,low,10,namecheap,,,
 84b875a4-5b0c-4941-a535-f77cc8bda907,upon.vana,available,2498,,medium,low,4,namecheap,,,
 185d5151-4728-4676-a5c5-de8db3cf4d3e,unmatched.vana,available,2498,,medium,low,9,namecheap,,,
-25ea6f29-6c13-4ece-882b-ea192e82910e,advance.vana,available,2498,,high,low,7,namecheap,,,
-1984695d-f0c7-46e2-8626-0f42fb2f00bc,derelict.vana,available,2498,,high,low,8,namecheap,,,
+25ea6f29-6c13-4ece-882b-ea192e82910e,advance.vana,available,2298,2498,medium,low,7,namecheap,,,21/09/2026 20:22
+1984695d-f0c7-46e2-8626-0f42fb2f00bc,derelict.vana,available,2298,2498,low,low,8,namecheap,,,21/09/2026 13:39
 ea3bf590-24d4-46ef-879b-ab14ad74cd39,engagementring.vana,available,2498,,high,low,15,namecheap,,,
 a19aa3ed-ff65-430d-adf4-b410e0ce277d,deliver.vana,available,2498,,high,low,7,namecheap,,,
 68eb2370-d9a7-45e9-9319-75bfb3db3fba,justlikethat.vana,available,2498,,medium,low,14,namecheap,,,
@@ -268,7 +267,7 @@ fa6a2e94-06bb-4fcb-953b-d915d159e54c,treasurydepartment.vana,available,2498,,med
 19a0a827-2693-4388-899e-57cced5ce341,fivestar.vana,available,2498,,high,low,9,namecheap,,,
 339bfa48-05ba-47fd-b19e-c9bc6d3b500a,appalling.vana,available,2298,2498,low,low,9,namecheap,,,06/08/2026 04:31
 5fc117ee-5303-4a11-b6cd-3c3a4e6b9efe,courageous.vana,available,2498,,high,low,10,namecheap,,,
-fb96f554-6be3-4da9-930f-532e9d90008a,absorbing.vana,available,2498,,high,low,9,namecheap,,,
+fb96f554-6be3-4da9-930f-532e9d90008a,absorbing.vana,available,2298,2498,medium,low,9,namecheap,,,21/09/2026 15:02
 949a3428-f936-4ce0-a952-04939e8bc741,screening.vana,available,2498,,high,low,9,namecheap,,,
 7fbff769-39a9-441b-964b-07640e050958,iso.vana,available,,,high,low,3,,,,
 7f53b643-e4c0-4e4f-a423-01d4ae1147df,cheerfully.vana,available,2498,,high,low,10,namecheap,,,
@@ -278,7 +277,7 @@ bdeca5b0-28e6-4375-95ab-913cf321e5f7,guest.vana,available,2498,,high,low,5,namec
 583c75c8-d619-498c-ac5f-623960c17c64,godutch.vana,available,2498,,medium,low,8,namecheap,,,
 0550fa3d-d4fb-4e45-a916-b881ce085995,pop.vana,available,2498,,high,medium,3,namecheap,,,
 c72ce906-7d84-453b-b10a-234d90cfe4f1,authorised.vana,available,2498,,high,low,10,namecheap,,,
-c18cb696-ada6-46e2-839b-994132638cb7,alveolar.vana,available,2498,,high,low,8,namecheap,,,
+c18cb696-ada6-46e2-839b-994132638cb7,alveolar.vana,available,2298,2498,low,low,8,namecheap,,,22/09/2026 02:54
 fd9f0a8b-eaa6-4900-aa25-65cb226aa9db,sympathize.vana,available,2498,,high,low,10,namecheap,,,
 01ebbe73-38ca-4b75-bc41-7a8f8a93d885,renewal.vana,available,2498,,high,low,7,namecheap,,,
 31795e43-ddc9-47d8-9ee2-b3311f618e33,facts.vana,available,2298,2498,medium,low,5,namecheap,,,20/09/2026 19:39
@@ -288,7 +287,6 @@ ad58faf0-4cba-44f8-bd89-a67b692598f6,worsened.vana,available,2498,,medium,low,8,
 89e68b51-3056-4b85-bb4e-826c7ee26cda,anodal.vana,available,2298,2498,low,low,6,namecheap,,,
 703f8098-cbc9-4f55-b173-5fed4d12ab28,flooring.vana,available,2498,,high,low,8,namecheap,,,
 9393de08-3aa3-4802-893e-58a468b70743,baseborn.vana,available,2298,2498,low,low,8,namecheap,,,08/08/2026 21:34
-580c1dca-2c9c-48eb-87a1-fdbf2e6e53b4,alpha.vana,available,,,high,medium,5,,,,
 76f53777-de74-4652-a3f4-2956185e48da,although.vana,available,2498,,medium,low,8,namecheap,,,
 ca3d52ee-05b4-4817-9285-11586d5a1a0b,trip.vana,available,2298,2498,medium,low,4,namecheap,,,08/09/2026 04:57
 eb7878d8-b196-46e0-afa2-44ccf873c44b,whoareyou.vana,available,2498,,medium,low,11,namecheap,,,
@@ -310,7 +308,7 @@ bd8ef117-60b5-4f5f-b45d-5d9a5ae33cf3,antitrust.vana,available,2298,2498,low,low,
 1ea48f83-ceeb-43c8-b3f3-61cf525874bc,ebook.vana,available,2498,,high,low,6,namecheap,,,
 2823abae-804b-4ae0-9010-97b5ef3ebc2d,avirulent.vana,available,2298,2498,low,low,9,namecheap,,,07/08/2026 23:41
 49975b7e-82c0-4dca-9fa3-4ac189c66335,quarterof.vana,available,2498,,low,low,10,namecheap,,,
-878b22fd-001c-4857-a697-be4a71fdb4a5,hundred.vana,available,2498,,high,low,7,namecheap,,,
+878b22fd-001c-4857-a697-be4a71fdb4a5,hundred.vana,available,2298,2498,medium,low,7,namecheap,,,21/09/2026 11:00
 cf0d0324-be7f-4a91-af2a-13b83868d6dc,force.vana,available,2498,,high,low,5,namecheap,,,
 59a2d914-4c50-4daf-b6bd-cfefe290225d,master.vana,available,2498,,high,low,6,namecheap,,,
 d463fbf3-8e30-4ccc-b649-41bf46e8682b,raw.vana,available,2298,2498,low,low,3,namecheap,,,08/08/2026 18:20
@@ -379,7 +377,7 @@ cebb6771-4f45-4c74-ab2b-5d1c1cdab6ad,bead.vana,available,2498,,high,low,4,namech
 ebeca952-c87d-4dc7-a935-34222c8666b3,directing.vana,available,2498,,medium,low,9,namecheap,,,
 9801475b-1569-44db-8736-08fa91180ed5,arachnoid.vana,available,2298,2498,low,low,9,namecheap,,,06/08/2026 11:41
 47a4e449-3416-4b8d-8b5b-a1977222b0fb,pubquiz.vana,available,2498,,medium,low,8,namecheap,,,
-b11a7121-f568-4402-9dbd-5e603070f163,older.vana,available,2498,,medium,low,5,namecheap,,,
+b11a7121-f568-4402-9dbd-5e603070f163,older.vana,available,2298,2498,low,low,5,namecheap,,,21/09/2026 22:32
 2930f1e7-b8df-439d-af6c-02bf0e4b79cb,germany.vana,available,,,high,low,7,,,,
 397ab2bf-b057-45b3-97a2-4a24cd1c225c,inthis.vana,available,2498,,medium,low,7,namecheap,,,
 0cc9e18b-513e-41d5-bee5-9e1af8b317ac,provide.vana,available,2498,,high,low,7,namecheap,,,
@@ -399,7 +397,7 @@ accc718c-96d6-4637-8cf5-523d37aa8b46,ganja.vana,available,2498,,medium,low,5,nam
 fd294a5e-cf8e-4477-b5b3-134134c652fe,naturally.vana,available,2498,,medium,low,9,namecheap,,,
 ac10a5d0-d8bf-4330-8e53-d330aa7b5c28,triad.vana,available,2298,2498,low,low,5,namecheap,,,
 6d1569ca-7d3a-498d-bff0-98fc52efc059,riseabove.vana,available,2498,,medium,low,10,namecheap,,,
-4fa6c034-79dd-4381-8a6d-98767e6ba411,amiable.vana,available,2498,,high,low,7,namecheap,,,
+4fa6c034-79dd-4381-8a6d-98767e6ba411,amiable.vana,available,2298,2498,medium,low,7,namecheap,,,21/09/2026 21:32
 8eae42e8-14c3-4bae-9b53-caa532b5a61a,rag.vana,available,2498,,medium,low,3,namecheap,,,
 a3d30d09-fe7a-4dae-a0de-d1cbce96e492,sensationally.vana,available,2498,,medium,low,13,namecheap,,,
 5a82527b-64ab-4a00-9294-9914b4d16b95,expire.vana,available,2498,,medium,low,6,namecheap,,,
@@ -437,7 +435,7 @@ fb28ab7b-5e21-4030-b75f-778c5cf924a5,keepitreal.vana,available,2498,,high,low,12
 46a3759e-e63f-448d-8aac-bd88be67bc88,manyatimes.vana,available,2498,,medium,low,12,namecheap,,,
 33e18c05-eced-402b-b833-497c81f2df9e,fail.vana,available,2498,,medium,low,4,namecheap,,,
 0d500650-f28c-4e50-a442-d5f63d7e0099,rose.vana,available,,,high,low,4,,,,
-873b9a3f-4d6b-472b-9954-938bfafda3ce,likewise.vana,available,2498,,medium,low,8,namecheap,,,
+873b9a3f-4d6b-472b-9954-938bfafda3ce,likewise.vana,available,2298,2498,low,low,8,namecheap,,,22/09/2026 00:06
 eebe18c5-e3ba-4bb4-bfd2-6faac39611a2,alarm.vana,available,2298,2498,low,low,5,namecheap,,,
 efade386-d692-4580-81f3-047b790c7de0,thinkabout.vana,available,2498,,medium,low,11,namecheap,,,
 6bcd690b-8399-471a-a1ce-82ac3da523ce,folding.vana,available,2498,,high,low,7,namecheap,,,
@@ -493,9 +491,9 @@ be11c78b-7134-4f95-9f26-c22cb2164a95,end.vana,available,2298,2498,medium,low,3,n
 9fd0e246-5c1d-45c2-aca6-a1b275f429bf,denial.vana,available,2498,,high,low,6,namecheap,,,
 5b229d1e-c20c-4a03-b1bf-c994fb859f00,intriguing.vana,available,2498,,high,low,10,namecheap,,,
 58168d0b-b465-456e-980f-037c7105f199,glance.vana,available,2498,,high,low,6,namecheap,,,
-cb7a365a-a869-4e5b-8222-f2a790d52a08,accident.vana,available,2498,,medium,low,8,namecheap,,,
+cb7a365a-a869-4e5b-8222-f2a790d52a08,accident.vana,available,2498,,low,low,8,namecheap,,,
 1f198efd-7b18-440c-9024-627d419c0776,greatly.vana,available,2498,,high,low,7,namecheap,,,
-62274ea4-6fae-46a3-ae48-516ca1f13be8,additional.vana,available,2498,,high,low,10,namecheap,,,
+62274ea4-6fae-46a3-ae48-516ca1f13be8,additional.vana,available,2298,2498,medium,low,10,namecheap,,,21/09/2026 17:14
 0a384a70-97f6-4c04-83ea-cfd512934326,luncheonmeat.vana,available,2498,,high,low,13,namecheap,,,
 3a6e35a5-b18a-4062-803f-21259904f120,ideally.vana,available,2498,,medium,low,7,namecheap,,,
 14e688e4-d107-47be-94bc-7f580626cb73,afrikaner.vana,available,2298,2498,low,low,9,namecheap,,,
@@ -524,7 +522,7 @@ a806742c-2d14-4c01-bb60-68e8744aeeb9,sensor.vana,available,2498,,high,low,6,name
 19cd0610-94f9-4477-a4d6-20ab53452aa5,browsing.vana,available,2498,,high,low,8,namecheap,,,
 fc6008ca-adeb-4880-8f31-6cb464fcde0a,relish.vana,available,2498,,high,low,6,namecheap,,,
 e482ae58-d1a1-4fab-a8bd-d51a6129b65b,arthistory.vana,available,2498,,high,low,11,namecheap,,,
-cba2b38e-48fb-4153-8e25-912b51419d5b,recognised.vana,available,2498,,high,low,10,namecheap,,,
+cba2b38e-48fb-4153-8e25-912b51419d5b,recognised.vana,available,2298,2498,medium,low,10,namecheap,,,21/09/2026 15:30
 aea2bbc4-5ae7-41a6-a671-ac9454fcc4b0,acidulous.vana,available,2298,2498,low,low,9,namecheap,,,
 d1cfc0e5-9f5f-4de0-b363-0ccb3cadcf8b,tackabout.vana,available,2498,,low,low,10,namecheap,,,
 cef3429c-a671-495b-be80-af4368ade750,endurable.vana,available,2298,2498,low,low,9,namecheap,,,09/08/2026 04:33
@@ -601,7 +599,7 @@ b2939b66-c01f-4fcc-87e2-a068775bafb3,ilxx.vana,available,2298,2498,low,low,4,nam
 79177e85-f948-4f70-8f97-6b997a495d79,freaking.vana,available,2498,,high,low,8,namecheap,,,
 28c11ec6-a6ab-45fd-b09c-e52a37cf813b,mouthcare.vana,available,2498,,low,low,9,namecheap,,,
 8c6d0dfc-ffa8-4b0c-a28e-941f14fddd6b,isbn.vana,available,2498,,high,low,4,namecheap,,,
-5f25bfae-c748-4271-ae0c-27dcb3ccf2d6,diamond.vana,available,2498,,high,low,7,namecheap,,,
+5f25bfae-c748-4271-ae0c-27dcb3ccf2d6,diamond.vana,available,2298,2498,medium,low,7,namecheap,,,21/09/2026 16:47
 72390840-40a3-4fd2-ab3f-62206a48626d,abuzz.vana,available,2298,2498,low,low,5,namecheap,,,
 677eb8ba-6a8a-4b2f-916e-e795fbfffb0d,manymoonsago.vana,available,2498,,medium,low,14,namecheap,,,
 ad147c53-8213-4b71-bd51-c2e39f73be5c,lookingat.vana,available,2498,,medium,low,10,namecheap,,,
@@ -612,7 +610,7 @@ ad147c53-8213-4b71-bd51-c2e39f73be5c,lookingat.vana,available,2498,,medium,low,1
 6c9e3897-7f36-432c-8cb2-3161ccca5372,language.vana,available,2498,,high,low,8,namecheap,,,
 8ce61eb1-1084-42fd-b571-cfa8d55fdb66,rich.vana,available,2298,2498,low,low,4,namecheap,,,19/09/2026 18:40
 8162fa31-015a-4dad-9d25-b17d0934bcb8,arborary.vana,available,2298,2498,low,low,8,namecheap,,,06/08/2026 13:23
-72861581-bbb1-4486-9a96-77c1775b6360,recognized.vana,available,2498,,high,low,10,namecheap,,,
+72861581-bbb1-4486-9a96-77c1775b6360,recognized.vana,available,2298,2498,medium,low,10,namecheap,,,21/09/2026 15:28
 e2efa556-403c-4fee-9f02-db30b1b211c1,dominating.vana,available,2298,2498,low,low,10,namecheap,,,07/08/2026 19:40
 9e8cca7f-8243-4bd7-963f-2155bed20a4c,luxembourg.vana,available,,,medium,low,10,,,,
 2a18f314-e3cf-4d78-bba6-ff42b1eeb8e6,sickly.vana,available,2298,2498,low,low,6,namecheap,,,
@@ -716,7 +714,7 @@ d1e87d42-8839-4b73-b255-71d94f3c4edb,australiaday.vana,available,2498,,high,low,
 2ad36ca9-db16-4699-9469-7f0196558344,saucepan.vana,available,2498,,high,low,8,namecheap,,,
 dcad37db-e7e3-4c5a-8485-1b1b0123762d,onfoot.vana,available,2498,,low,low,7,namecheap,,,
 024d703c-c00f-4b6c-ba42-17ed752274c7,athletics.vana,available,2498,,medium,medium,9,namecheap,,,
-313586d5-d025-44d8-a4dc-bcddb1b87c95,allout.vana,available,2498,,high,low,7,namecheap,,,
+313586d5-d025-44d8-a4dc-bcddb1b87c95,allout.vana,available,3999.99,3999.99,medium,low,7,name.com,,,22/09/2026 00:48
 09c434a5-0b40-4e53-b80e-841b0a3745c8,mood.vana,available,2498,,high,low,4,namecheap,,,
 e23be3c7-d0f7-4cb6-b2fe-2f6f4dcada78,firsttime.vana,available,2498,,high,low,10,namecheap,,,
 a52066eb-5d91-4de8-a303-1d0ad9a352de,taketheknee.vana,available,2498,,low,low,13,namecheap,,,
@@ -737,7 +735,7 @@ ce1a90d6-0ef0-4e99-acb1-28c31e2cf713,assured.vana,available,2298,2498,low,low,7,
 388d2fb3-110b-4308-8cd5-419fb89088a0,befull.vana,available,2498,,high,low,7,namecheap,,,
 cb67de9f-1df3-4872-ba0d-4b7c8a2c8019,whoreson.vana,available,2298,2498,low,low,8,namecheap,,,08/08/2026 23:43
 aabb4c55-a983-427e-bc03-1e0c40a39fc1,soundlike.vana,available,2498,,low,low,10,namecheap,,,
-8cafa4d2-b61e-40db-80f5-82bb8a475d71,admirable.vana,available,2498,,high,low,9,namecheap,,,
+8cafa4d2-b61e-40db-80f5-82bb8a475d71,admirable.vana,available,2298,2498,medium,low,9,namecheap,,,21/09/2026 18:46
 5e18e9fe-e312-49b9-984c-11392b6e429a,wondrous.vana,available,2498,,high,low,8,namecheap,,,
 92a5c715-a18a-492c-be78-e3fe29b3551f,convenient.vana,available,2498,,high,low,10,namecheap,,,
 15f27a71-12eb-48aa-863e-d42662b187f1,rustic.vana,available,2298,2498,low,low,6,namecheap,,,
@@ -750,7 +748,7 @@ b219cd8f-5338-44f9-9c49-05e230ab4277,treasure.vana,available,2498,,high,low,8,na
 aca633c8-bb76-42d5-b7bf-1bfc61cf2682,needing.vana,available,2498,,high,low,7,namecheap,,,
 fbed9634-fec9-4550-89bb-34f79f93df33,dishonor.vana,available,2498,,high,low,8,namecheap,,,
 010ac2ec-f0e8-4c09-b2da-bf86e45b05b3,pregnant.vana,available,2498,,high,low,8,namecheap,,,
-2359f2f8-2adb-42a3-af39-4d1c7bfdaf60,ability.vana,available,2498,,high,low,7,namecheap,,,
+2359f2f8-2adb-42a3-af39-4d1c7bfdaf60,ability.vana,available,2498,,medium,low,7,namecheap,,,
 20db5701-5820-4dad-adcf-dfeb055f4b6e,under.vana,available,2498,,high,low,5,namecheap,,,
 c5e2c951-7937-4c17-8ac7-ee58b507103b,controlling.vana,available,2498,,high,low,11,namecheap,,,
 0c408434-827f-488e-8593-9898fd021c05,call.vana,available,2498,,high,low,4,namecheap,,,
@@ -765,10 +763,10 @@ daa97324-0097-411b-bbcf-de9221080fe1,the.vana,available,,,high,medium,3,,,,
 7d358f67-30ac-4153-85c0-f5925679f927,breathe.vana,available,2498,,high,low,7,namecheap,,,
 e1b49d71-dcba-4049-918d-3e0d1afa7c2a,relating.vana,available,2498,,medium,low,8,namecheap,,,
 2be3f609-15aa-407e-869b-4a0ee285eff5,mopeabout.vana,available,2498,,low,low,10,namecheap,,,
-2f4e0662-05e0-4fa9-9bc7-d83e34950ff7,activated.vana,available,2498,,high,low,9,namecheap,,,
+2f4e0662-05e0-4fa9-9bc7-d83e34950ff7,activated.vana,available,2298,2498,medium,low,9,namecheap,,,21/09/2026 16:32
 928566a8-a4d1-4476-b38e-92f96089aaad,branded.vana,available,2498,,high,low,7,namecheap,,,
 96270ae6-70cf-4eca-87d5-3d740453fafd,newton.vana,available,2498,,medium,low,6,namecheap,,,
-7eca77dd-b95b-4b45-ab4b-9d598f47a840,deep.vana,available,2498,,high,medium,4,namecheap,,,
+7eca77dd-b95b-4b45-ab4b-9d598f47a840,deep.vana,available,2298,2498,low,low,4,namecheap,,,21/09/2026 15:15
 8e4a181d-0db8-41c4-94d9-fbe685aa2818,antacid.vana,available,2498,,high,low,7,namecheap,,,
 db48d8e2-57c9-41dc-b550-4b4146c14319,forgive.vana,available,2498,,high,low,7,namecheap,,,
 4a111957-88c8-4d3b-810f-c61028a81efc,babyfaced.vana,available,2298,2498,low,low,10,namecheap,,,08/08/2026 03:48
@@ -846,7 +844,7 @@ a8e7555a-1ea2-4700-9739-e82db9a70a8d,thatone.vana,available,2498,,low,low,8,name
 b0392c4f-45ce-43f6-8b8c-d3783aea1349,published.vana,available,2498,,medium,low,9,namecheap,,,
 962637f9-21ef-4b06-801d-103ff2d831d1,worthwhile.vana,available,2498,,high,low,10,namecheap,,,
 35603351-b2b7-4fb3-bd7d-dd7709bf980e,seventeen.vana,available,2298,2498,medium,low,9,namecheap,,,19/09/2026 06:27
-3e54d6c2-53b2-4ac3-9b4f-b139442e6a48,orso.vana,available,2498,,medium,low,5,namecheap,,,
+3e54d6c2-53b2-4ac3-9b4f-b139442e6a48,orso.vana,available,2298,2498,low,low,5,namecheap,,,21/09/2026 14:25
 88f0ff78-0767-4db5-8168-1390abc9df1f,eighth.vana,available,2298,2498,low,low,6,namecheap,,,
 b504173d-3ad8-4a4d-adb6-17a501f6a87c,wooden.vana,available,2498,,medium,low,6,namecheap,,,
 91096cd9-9a40-48e9-968a-bf22a3834d66,papal.vana,available,2298,2498,low,low,5,namecheap,,,06/08/2026 04:09
@@ -864,7 +862,7 @@ af0da055-1c45-43c4-821c-b50822e61c46,need.vana,available,2498,,high,low,4,namech
 656038e7-b1b9-4b1f-86d7-34064e2f5b68,urban.vana,available,2498,,medium,low,5,namecheap,,,
 ff736b26-e64b-436f-8a3d-1a428e3ce693,flash.vana,available,2498,,medium,medium,5,namecheap,,,
 5c87b204-e4a5-4439-a6ad-08ab4a153e3a,weed.vana,available,2498,,medium,low,4,namecheap,,,
-befab31a-0a6b-4d5e-aa21-6bd5fd1684d7,agreeable.vana,available,2498,,high,low,9,namecheap,,,
+befab31a-0a6b-4d5e-aa21-6bd5fd1684d7,agreeable.vana,available,2298,2498,medium,low,9,namecheap,,,21/09/2026 23:17
 036bf99d-5498-4cca-99b4-406118481d6e,lowcost.vana,available,2298,2498,low,low,8,namecheap,,,
 cf6cbba9-62d1-4cc3-95fe-6db8721443f2,medicalreport.vana,available,2498,,medium,low,14,namecheap,,,
 cf805fee-19d1-4e86-8793-23e5cd11e441,authorized.vana,available,2498,,high,low,10,namecheap,,,
@@ -886,7 +884,7 @@ d7f2472a-1390-4f16-823a-e7bf0e167715,disorganised.vana,available,2498,,medium,lo
 1b406c33-c136-479f-b7b6-4a54467eb830,motivate.vana,available,2498,,high,low,8,namecheap,,,
 c15df727-2716-470b-8a0f-9950f66ab515,caper.vana,available,2498,,high,low,5,namecheap,,,
 5d45bbb7-96ff-4326-8826-a91db0bb9494,rattleabout.vana,available,2498,,low,low,12,namecheap,,,
-58341f5d-aa10-46c1-8d45-b1dbe432d4ab,accommodate.vana,available,2498,,high,low,11,namecheap,,,
+58341f5d-aa10-46c1-8d45-b1dbe432d4ab,accommodate.vana,available,2498,,medium,low,11,namecheap,,,
 520dafc9-bdf5-4d2c-82cb-dd1c59bd61df,costofliving.vana,available,2498,,medium,low,14,namecheap,,,
 dd6ddb1e-54de-4663-bde0-f929a15310c1,allovertheboard.vana,available,2498,,medium,low,18,namecheap,,,
 c23abb27-c88f-495a-b9d6-d572a02a3ba7,exhibit.vana,available,2498,,high,low,7,namecheap,,,
@@ -900,7 +898,7 @@ aafa0807-3ff3-448b-a65c-e55033103466,protest.vana,available,2498,,high,low,7,nam
 8767813f-565a-4620-9414-f2e96dca5deb,lawless.vana,available,2298,2498,low,low,7,namecheap,,,
 39adae99-f233-44c9-bf8c-d69dcf1a76bc,thereare.vana,available,2498,,low,low,9,namecheap,,,
 101e47f5-61c2-494f-853c-70b00b4efa95,nowadays.vana,available,2498,,medium,low,8,namecheap,,,
-f1dd0404-eb05-4aec-9851-31c9b96efe7f,warm.vana,available,2498,,high,low,4,namecheap,,,
+f1dd0404-eb05-4aec-9851-31c9b96efe7f,warm.vana,available,2298,2498,medium,low,4,namecheap,,,21/09/2026 21:51
 ca284676-e6ae-481b-aadf-08ef0528569d,laptop.vana,available,2498,,high,low,6,namecheap,,,
 ae9a9545-02d3-4f43-a333-fb4a953ec51d,brotherhood.vana,available,2498,,high,low,11,namecheap,,,
 f399c818-3e38-43b9-ad05-0c9230b9e899,letgo.vana,available,2498,,high,low,6,namecheap,,,
@@ -946,7 +944,7 @@ d5f1cdf6-9e03-43bc-827c-9847ee0388c7,liii.vana,available,2298,2498,low,low,4,nam
 537b742d-096c-4b08-9629-ef5bc26efcc6,studyabroad.vana,available,2498,,medium,low,12,namecheap,,,
 cbcf2b2a-e346-4421-a956-f9e71766aa46,exercisebike.vana,available,2498,,high,low,13,namecheap,,,
 e30cdcea-02d9-4ba7-9d6f-f4fef07b3a76,flower.vana,available,2498,,high,low,6,namecheap,,,
-8ca0d80f-0ab1-4bae-bea1-6259bb3aae94,aesthetic.vana,available,2498,,high,low,9,namecheap,,,
+8ca0d80f-0ab1-4bae-bea1-6259bb3aae94,aesthetic.vana,available,2298,2498,medium,low,9,namecheap,,,21/09/2026 21:10
 7eda6f89-5f09-4144-a4c6-2871e5a7ad95,impact.vana,available,2498,,high,high,6,namecheap,,,
 4a2027a8-ef83-480a-9795-afb59b172d1b,plus.vana,available,2498,,high,low,4,namecheap,,,
 8c1e298b-657f-483f-847d-c9fa012506b4,announce.vana,available,2498,,high,low,8,namecheap,,,
@@ -999,3 +997,5 @@ df94b2de-2955-4cb8-b732-116129bf677a,consummate.vana,available,2498,,high,low,10
 6b5b35e1-088e-41b6-81d1-93b489aa7813,aflare.vana,available,2298,2498,low,low,6,namecheap,,,
 8bcac396-7f01-4f91-ad68-e8c91b66d90e,transfer.vana,available,2298,2498,medium,low,8,namecheap,,,19/09/2026 03:42
 5d547abc-4203-46f9-acc4-155a900a572e,ricepaper.vana,available,2498,,medium,low,10,namecheap,,,
+40426a7f-62e3-420d-b44c-333895f6120f,condone.vana,available,2498,,high,low,7,namecheap,,,
+58dafcdc-9d73-4cae-b701-3b147afdd68d,topic.vana,available,2498,,high,low,5,namecheap,,,
