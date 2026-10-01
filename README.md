@@ -1,10 +1,10 @@
-# Available .VANA One-Word Domains (30,307)
+# Available .VANA One-Word Domains (32,603)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C307%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C603%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .vana one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **30,307 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,603 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 30,307 domains · **Median ask:** $2,306.01 · **High-demand under $2,500:** 178
+**Public extract:** 1,000 rows · **Live catalog:** 32,603 domains · **Median ask:** $2,284.03 · **High-demand under $2,500:** 203
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/vana`
 **Best for:** founders, investors, studios
 
@@ -66,24 +66,24 @@ print(df.head())
 | -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | aar.vana | available | $2,298    | $2,498        | medium         | low    | 3      | namecheap |
 | abb.vana | available | $3,999.99 | $3,999.99     | high           | medium | 3      | name.com  |
-| auk.vana | available | $2,298    | $2,498        | high           | low    | 3      | namecheap |
+| auk.vana | available | $2,298    | $2,498        | medium         | low    | 3      | namecheap |
 | avo.vana | available | $2,298    | $2,498        | high           | low    | 3      | namecheap |
 | bea.vana | available | $2,070.20 | $2,070.20     | high           | low    | 3      | spaceship |
 | cad.vana | available | $2,298    | $2,498        | high           | low    | 3      | namecheap |
+| cda.vana | available | $2,070.20 | $2,070.20     | high           | medium | 3      | spaceship |
 | cpu.vana | available | $2,298    | $2,498        | high           | low    | 3      | namecheap |
+| dcs.vana | available | $2,140.22 | $2,140.22     | high           | low    | 3      | dynadot   |
 | ecg.vana | available | $2,070.20 | $2,070.20     | high           | low    | 3      | spaceship |
 | eic.vana | available | $2,060.25 | $2,060.25     | high           | low    | 3      | porkbun   |
 | fai.vana | available | $2,070.20 | $2,070.20     | high           | low    | 3      | spaceship |
 | fed.vana | available | $2,298    | $2,498        | high           | low    | 3      | namecheap |
 | gur.vana | available | $2,298    | $2,498        | medium         | low    | 3      | namecheap |
-| hui.vana | available | $2,298    | $2,498        | high           | low    | 3      | namecheap |
-| ina.vana | available | $2,070.20 | $2,070.20     | high           | low    | 3      | spaceship |
+| ima.vana | available | $2,070.20 | $2,070.20     | high           | low    | 3      | spaceship |
 | ioc.vana | available | $2,298    | $2,498        | high           | low    | 3      | namecheap |
 | ixl.vana | available | $2,298    | $2,498        | medium         | low    | 3      | namecheap |
 | kid.vana | available | $2,298    | $2,498        | high           | low    | 3      | namecheap |
 | ldl.vana | available | $2,298    | $2,498        | high           | low    | 3      | namecheap |
 | msu.vana | available | $2,298    | $2,498        | high           | low    | 3      | namecheap |
-| ned.vana | available | $2,298    | $2,498        | high           | low    | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 30,307 live domains                        |
+| 1,000-row public sample | 32,603 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 178 high-demand names under $2,500         |
+| Basic exported fields   | 203 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VANA One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VANA One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
